@@ -1,4 +1,5 @@
 # TestGitHub
 Github Tutorial
 ===============
-Show off basic implemenation of github
+
+Github repository for demonstrating basic functionality
